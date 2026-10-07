@@ -2,4 +2,4 @@
 
 Catálogo público de ARVI · Juegos mecánicos y sustentables.
 
-- Sitio: https://catalogo.arvi.cl/
+- Sitio: https://ajienciapica.github.io/arvi/
